@@ -1,0 +1,6 @@
+Min  5x -6x -6x 
+s.t.  
+2x 2x 4x > -3
+1x 3x 1x < 5
+2x 2x 3x = -6
+x eleftheri x>0 x>0
